@@ -12,3 +12,4 @@
 - Mapster
 - Microsoft.AspNetCore.OutputCaching
 - Microsoft.EntityFrameworkCore.InMemory
+- StackExchange.Redis
